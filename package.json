@@ -65,7 +65,9 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1"
+    "gh": "^2.8.9",
+    "gh-pages": "^6.1.1",
+    "pages": "^0.0.16"
   },
   "homepage": "https://seongyun05.github.io/seongyun_test_simulation"
 }
