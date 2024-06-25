@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/seongyun_test_simulation/static/css/main.18e11287.css",
+    "main.js": "/seongyun_test_simulation/static/js/main.985a034f.js",
+    "static/js/483.774238e6.chunk.js": "/seongyun_test_simulation/static/js/483.774238e6.chunk.js",
+    "static/js/787.939d5ca9.chunk.js": "/seongyun_test_simulation/static/js/787.939d5ca9.chunk.js",
+    "service-worker.js": "/seongyun_test_simulation/service-worker.js",
+    "index.html": "/seongyun_test_simulation/index.html",
+    "main.18e11287.css.map": "/seongyun_test_simulation/static/css/main.18e11287.css.map",
+    "main.985a034f.js.map": "/seongyun_test_simulation/static/js/main.985a034f.js.map",
+    "483.774238e6.chunk.js.map": "/seongyun_test_simulation/static/js/483.774238e6.chunk.js.map",
+    "787.939d5ca9.chunk.js.map": "/seongyun_test_simulation/static/js/787.939d5ca9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18e11287.css",
+    "static/js/main.985a034f.js"
+  ]
+}
